@@ -24,12 +24,6 @@
 </div>
 
 
-
-
-###
-
-<img src="https://raw.githubusercontent.com/Kartikpawar143/Kartikpawar143/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">EDUCATION</h2>
