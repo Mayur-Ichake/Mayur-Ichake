@@ -1,16 +1,57 @@
-## Hi there 👋
+ <br clear="both">
 
-<!--
-**Mayur-Ichake/Mayur-Ichake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi 👋! My self Mayur Ichake and I'm a web devloper, from Pune.</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">PROJECTS</h2>
+
+###
+
+<div align="center" >
+<center>
+<table>
+
+ 
+  <tr>      
+      <td align="center"><a href="https://github.com/Mayur-Ichake/Java-Programs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px;" height="75px;" alt="Java"/><br /><b>Java</b></a></td>
+    
+  </tr>
+</table>
+</center>
+</div>
+
+
+
+
+###
+
+<img src="https://raw.githubusercontent.com/Kartikpawar143/Kartikpawar143/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">EDUCATION</h2>
+
+###
+
+<p align="left"> → Bachelor of Engineering (ENTC), Savitribai Phule Pune University, 2022 - 2026</p>
+
+###
+
+
+###
+
+
+<h2 align="left">CONTACT WITH ME</h2>
+
+###
+
+<div align="center">
+  <a href="linkedin.com/in/mayur-ichake-42643b346" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+
