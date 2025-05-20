@@ -1,6 +1,6 @@
  <br clear="both">
 
-<h1 align="left">Hi 👋! My self Mayur Ichake and I'm a web devloper, from Pune.</h1>
+<h1 align="left">Hi👋! My self Mayur Ichake and I'm a web devloper, from Pune.</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left"> → Bachelor of Engineering (ENTC), Savitribai Phule Pune University, 2022 - 2026</p>
+<p align="left"> → Bachelor of Engineering (Electronic & Telecommunication), Savitribai Phule Pune University, 2022 - 2026</p>
 
 ###
 
