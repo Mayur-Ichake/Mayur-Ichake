@@ -1,6 +1,6 @@
  <br clear="both">
 
-<h1 align="left">Hi👋! My self Mayur Ichake and I'm a web devloper, from Pune.</h1>
+<h1 align="left">Hi 👋! My self Mayur Ichake and I'm a web devloper, from Pune.</h1>
 
 ###
 
