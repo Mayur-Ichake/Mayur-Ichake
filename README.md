@@ -17,7 +17,7 @@
  
   <tr>      
       <td align="center"><a href="https://github.com/Mayur-Ichake/Java-Programs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px;" height="75px;" alt="Java"/><br /><b>Java</b></a></td>
-    <td align="center"><a href="https://github.com/Mayur-Ichake/python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px;" height="75px;" alt="Java"/><br /><b>Java</b></a></td>
+    <td align="center"><a href="https://github.com/Mayur-Ichake/python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75px;" height="75px;" alt="Java"/><br /><b>Java</b></a></td>
   </tr>
 </table>
 </center>
