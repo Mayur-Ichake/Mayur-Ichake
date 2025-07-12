@@ -46,11 +46,12 @@
  <center>
  <table>
     <td align="center"<a href="linkedin.com/in/mayur-ichake-42643b346" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/><b>Linkedin</b></a></td>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/><b  />Linkedin</b></a></td>
   </a>
   <td align="center"><a href="https://www.instagram.com/mayur.ichake" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/><b>Instagram</b></a></td>
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/><b  />Instagram</b></a></td>
+  </a>                              
   </table>
 </center>
 </div>
+
