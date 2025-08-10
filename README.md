@@ -3,7 +3,6 @@
 <h1 align="left">Hi👋! My name is Mayur Ichake and I'm a Python developer, from Pune.</h1>
 
 ###
-
 ###
 
 <h2 align="left">PROJECTS</h2>
