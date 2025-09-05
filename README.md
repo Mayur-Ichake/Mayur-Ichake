@@ -44,7 +44,7 @@
 <div align="center">
  <center>
  <table>
-    <td align="center"<a href="https://www.linkedin.com/in/mayur-ichake-42643b346" target="_blank">
+    <td align="center"<a href="https://www.linkedin.com/in/mayur-ichake2903" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/><b  />Linkedin</b></a></td>
   </a>
   <td align="center"><a href="https://www.instagram.com/mayur.ichake" target="_blank">
