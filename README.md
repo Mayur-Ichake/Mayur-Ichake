@@ -1,56 +1,93 @@
- <br clear="both">
+<!-- ================== MAYUR ICHAKE GITHUB README ================== -->
 
-<h1 align="left">Hi👋! My name is Mayur Ichake and I'm a Python developer, from Pune.</h1>
+<h1 align="center">Hi 👋, I'm Mayur Ichake</h1>
+<h3 align="center">Final Year ENTC Student | Python & AI/ML Enthusiast | Edge AI & Robotics Learner</h3>
 
-###
-###
-
-<h2 align="left">PROJECTS</h2>
-
-###
-
-<div align="center" >
-<center>
-<table>
-
- 
-  <tr> 
-    <td align="center"><a href="https://github.com/Mayur-Ichake/python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75px;" height="75px;" alt="python"/><br /><b>python</b></a></td>
-   <td align="center"><a href="https://github.com/Mayur-Ichake/Java-Programs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="75px;" height="75px;" alt="Java"/><br /><b>Java</b></a></td>
-  </tr>
-</table>
-</center>
-</div>
-
-
-###
-
-<h2 align="left">EDUCATION</h2>
-
-###
-
-<p align="left"> → Bachelor of Engineering (Electronic & Telecommunication), Savitribai Phule Pune University, 2022 - 2026</p>
-
-###
-
-
-###
-
-
-<h2 align="left">CONTACT WITH ME</h2>
-
-###
-
-<div align="center">
- <center>
- <table>
-    <td align="center"><a href="https://www.linkedin.com/in/mayur-ichake2903" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/><b  />Linkedin</b></a></td>
+<p align="center">
+  <a href="https://github.com/Mayur-Ichake">
+    <img src="https://img.shields.io/badge/GitHub-Mayur--Ichake-181717?style=flat&logo=github" />
   </a>
-  <td align="center"><a href="https://www.instagram.com/mayur.ichake" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/><b  />Instagram</b></a></td>
-  </a>                              
-  </table>
-</center>
-</div>
+  <a href="https://www.linkedin.com/in/mayur-ichake">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayur--Ichake-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:mayur@example.com">
+    <img src="https://img.shields.io/badge/Email-mayur@example.com-red?style=flat&logo=gmail" />
+  </a>
+</p>
 
+---
+
+<h2>💻 Skills & Technologies</h2>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-D22228?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-007396?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
+
+---
+
+<h2>📂 Projects</h2>
+<ul>
+  <li>💻 <b>Core Python Projects</b> - Beginner-friendly scripts and exercises to strengthen Python fundamentals.</li>
+  <li>📊 <b>Pandas Projects</b> - Data analysis, cleaning, transformation, and visualization.</li>
+  <li>🤖 <b>Robotic Arm Project</b> - Edge AI based tomato cutting robotic arm using ESP32-CAM & Arduino.</li>
+  <li>🧠 <b>Edge AI Projects</b> - Human activity recognition and animal intrusion alert system using Raspberry Pi.</li>
+  <li>📈 <b>AI/ML Projects</b> - TensorFlow/PyTorch experiments, computer vision & deep learning applications.</li>
+</ul>
+
+---
+
+<h2>🌱 Currently Learning</h2>
+<p>
+  AI/ML Algorithms, Deep Learning, OpenCV, Edge AI Deployment, Data Visualization, Advanced Python Libraries
+</p>
+
+---
+
+<h2>🎯 Goals & Interests</h2>
+<ul>
+  <li>Become a proficient Python Developer & Data Analyst.</li>
+  <li>Build AI/ML models for real-time applications.</li>
+  <li>Integrate AI with IoT & Robotics projects.</li>
+  <li>Share knowledge & open-source projects on GitHub.</li>
+</ul>
+
+---
+
+<h2>📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-Ichake&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Ichake&theme=radical" />
+</p>
+
+---
+
+<h2>📫 Contact Me</h2>
+<p>
+  📧 Email: mayur@example.com<br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mayur-ichake">https://www.linkedin.com/in/mayur-ichake</a><br>
+  💻 GitHub: <a href="https://github.com/Mayur-Ichake">https://github.com/Mayur-Ichake</a>
+</p>
+
+---
+
+<h2>⚡ Fun Fact / Interests</h2>
+<p>
+  <img src="https://img.shields.io/badge/Loves-Data_Analysis-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-Deep_Learning-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enjoys-Robotics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excited_for_AI-Gradient?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Mayur Ichake | AI/ML & Python Enthusiast
+</p>
