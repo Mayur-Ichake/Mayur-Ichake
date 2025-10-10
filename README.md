@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/mayur-ichake">
     <img src="https://img.shields.io/badge/LinkedIn-Mayur--Ichake-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:mayur@example.com">
+  <a href="mayurichake4@gmail.com">
     <img src="https://img.shields.io/badge/Email-mayur@example.com-red?style=flat&logo=gmail" />
   </a>
 </p>
@@ -22,11 +22,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-D22228?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-007396?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
@@ -71,7 +66,7 @@
 
 <h2>📫 Contact Me</h2>
 <p>
-  📧 Email: mayur@example.com<br>
+  📧 Email: mayurichake4@gmail.com<br>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/mayur-ichake">https://www.linkedin.com/in/mayur-ichake</a><br>
   💻 GitHub: <a href="https://github.com/Mayur-Ichake">https://github.com/Mayur-Ichake</a>
 </p>
