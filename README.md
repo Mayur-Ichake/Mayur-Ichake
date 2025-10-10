@@ -66,10 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Ichake&theme=tokyonight&hide_border=true" alt="Mayur's GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Ichake&theme=tokyo-night&hide_border=true" alt="Mayur's GitHub activity graph" />
-</p>
-
 ---
 <h2 align="center">⚡ GitHub Stats & Activity</h2>
 
@@ -79,10 +75,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Ichake&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Ichake&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
