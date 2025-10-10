@@ -68,7 +68,7 @@
 
 ---
 
-<h2 align="center">🐍 Cyber Snake in Action</h2>
+<h2 align="center">🐍 Mayur Ichake's Code Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mayur-Ichake/Mayur-Ichake/output/github-contribution-grid-snake-dark.svg" alt="Cyber Snake Animation" />
 </p>
