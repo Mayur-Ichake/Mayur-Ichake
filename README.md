@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-mayur@example.com-red?style=flat&logo=gmail" />
   </a>
   <a href="https://www.instagram.com/Mayur.ichake">
-    <img src="https://img.shields.io/badge/Instagram-Mayur--Ichake-181717?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/Instagram-Mayur--Ichake-181717?style=flat&logo=instagram" />
   </a>
 </p>
 
