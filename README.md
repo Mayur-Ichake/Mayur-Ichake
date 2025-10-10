@@ -67,17 +67,6 @@
 </p>
 
 ---
-<h2 align="center">⚡ GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-Ichake&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Mayur's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Ichake&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <h2 align="center">🐍 Cyber Snake in Action</h2>
 <p align="center">
