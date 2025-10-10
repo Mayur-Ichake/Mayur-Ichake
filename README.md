@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mayur--Ichake-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mayurichake4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mayur@example.com-red?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-mayurichake4@gmail.com-red?style=flat&logo=gmail" />
   </a>
   <a href="https://www.instagram.com/Mayur.ichake">
     <img src="https://img.shields.io/badge/Instagram-Mayur--Ichake-181717?style=flat&logo=instagram" />
