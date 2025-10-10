@@ -4,14 +4,14 @@
 <h3 align="center">Final Year ENTC Student | Python & AI/ML Enthusiast | Edge AI & Robotics Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/Mayur-Ichake">
-    <img src="https://img.shields.io/badge/GitHub-Mayur--Ichake-181717?style=flat&logo=github" />
-  </a>
   <a href="https://www.linkedin.com/in/mayur-ichake">
     <img src="https://img.shields.io/badge/LinkedIn-Mayur--Ichake-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mayurichake4@gmail.com">
     <img src="https://img.shields.io/badge/Email-mayur@example.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.instagram.com/Mayur.ichake">
+    <img src="https://img.shields.io/badge/Instagram-Mayur--Ichake-181717?style=flat&logo=github" />
   </a>
 </p>
 
