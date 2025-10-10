@@ -62,6 +62,29 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayur-Ichake&theme=radical" />
 </p>
 
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-Ichake&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayur's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Ichake&theme=tokyonight&hide_border=true" alt="Mayur's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayur-Ichake&theme=tokyo-night&hide_border=true" alt="Mayur's GitHub activity graph" />
+</p>
+
+---
+
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayur-Ichake/Mayur-Ichake/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
 ---
 
 <h2>📫 Contact Me</h2>
