@@ -56,18 +56,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayur-Ichake&show_icons=true&theme=tokyonight&hide_border=true" alt="Mayur's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayur-Ichake&theme=tokyonight&hide_border=true" alt="Mayur's GitHub streak" />
-</p>
-
----
-
 <h2>📫 Contact Me</h2>
 <p>
   📧 Email: mayurichake4@gmail.com<br>
