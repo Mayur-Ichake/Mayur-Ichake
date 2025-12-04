@@ -1,6 +1,6 @@
 <!-- ================== MAYUR ICHAKE GITHUB README ================== -->
 
-<h1 align="center">Hi 👋, I'm Mayur Ichake</h1>
+<h1 align="center">Hi 👋, I'm Mayur Ichake </h1>
 <h3 align="center">Final Year ENTC Student | Python & AI/ML Enthusiast | Edge AI & Robotics Learner</h3>
 
 <p align="center">
