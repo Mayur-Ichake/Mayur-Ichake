@@ -1,7 +1,13 @@
-<!-- ================== MAYUR ICHAKE GITHUB README ================== -->
+<!-- ⚡ Mayur Ichake • Stark Industries Theme -->
 
-<h1 align="center">Hi 👋, I'm Mayur Ichake </h1>
-<h3 align="center">Final Year ENTC Student | Python & AI/ML Enthusiast | Edge AI & Robotics Learner</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00D9FF&center=true&vCenter=true&width=800&lines=I+Am+Mayur+Ichake+🤖">
+</h1>
+
+<p align="center">
+  <strong>Final Year ENTC Student | AI/ML Explorer | Edge AI + Robotics Innovator</strong><br/>
+  Crafting intelligent machines inspired by <strong>Tony Stark’s Vision</strong>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayur-ichake">
@@ -15,34 +21,32 @@
   </a>
 </p>
 
+
 ---
 
 <h2>💻 Skills & Technologies</h2>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-D22228?style=for-the-badge&logo=arduino&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,arduino,raspberrypi&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-007396?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
 ---
 
-<h2>📂 Projects</h2>
-<ul>
-  <li>💻 <b>Core Python Projects</b> - Beginner-friendly scripts and exercises to strengthen Python fundamentals.</li>
-  <li>📊 <b>Pandas Projects</b> - Data analysis, cleaning, transformation, and visualization.</li>
-  <li>🤖 <b>Robotic Arm Project</b> - Edge AI based tomato cutting robotic arm using ESP32-CAM & Arduino.</li>
-  <li>🧠 <b>Edge AI Projects</b> - Human activity recognition and animal intrusion alert system using Raspberry Pi.</li>
-  <li>📈 <b>AI/ML Projects</b> - TensorFlow/PyTorch experiments, computer vision & deep learning applications.</li>
-</ul>
 
----
+### 🛰️ **Mission Log**
+> “Robots that learn. AI that understands. Tech that transforms humanity.”
 
-<h2>🌱 Currently Learning</h2>
-<p>
-  AI/ML Algorithms, Deep Learning, OpenCV, Edge AI Deployment, Data Visualization, Advanced Python Libraries
-</p>
+- 🤖 Autonomous Robotics  
+- 🧠 Machine Learning & Computer Vision  
+- 🛰️ Edge AI & IoT  
+- 🦾 Human-Robot Interaction  
+- ⚡ Smart AI Assistants (Jarvis-Level)  
 
 ---
 
@@ -63,18 +67,3 @@
   💻 GitHub: <a href="https://github.com/Mayur-Ichake">https://github.com/Mayur-Ichake</a>
 </p>
 
----
-
-<h2>⚡ Fun Fact / Interests</h2>
-<p>
-  <img src="https://img.shields.io/badge/Loves-Data_Analysis-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Loves-Deep_Learning-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enjoys-Robotics-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excited_for_AI-Gradient?style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by Mayur Ichake | AI/ML & Python Enthusiast
-</p>
