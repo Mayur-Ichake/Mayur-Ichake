@@ -64,8 +64,7 @@
 <p>
   📧 Email: mayurichake4@gmail.com<br>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/mayur-ichake">https://www.linkedin.com/in/mayur-ichake</a><br>
-  💻 GitHub: <a href="https://github.com/Mayur-Ichake">https://github.com/Mayur-Ichake</a>      
-  
+  💻 GitHub: <a href="https://github.com/Mayur-Ichake">https://github.com/Mayur-Ichake</a>
   🖥️ Unstop: <a href="https://unstop.com/u/mayurich39085">https://Unstop.com/Mayur-Ichake</a>
   
 </p>
