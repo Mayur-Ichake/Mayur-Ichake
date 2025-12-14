@@ -39,17 +39,6 @@
 ---
 
 
-### 🛰️ **Mission Log**
-> “Robots that learn. AI that understands. Tech that transforms humanity.”
-
-- 🤖 Autonomous Robotics  
-- 🧠 Machine Learning & Computer Vision  
-- 🛰️ Edge AI & IoT  
-- 🦾 Human-Robot Interaction  
-- ⚡ Smart AI Assistants (Jarvis-Level)  
-
----
-
 <h2>🎯 Goals & Interests</h2>
 <ul>
   <li>Become a proficient Python Developer & Data Analyst.</li>
