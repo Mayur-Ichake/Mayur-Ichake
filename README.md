@@ -51,7 +51,7 @@
 
 <h2>📫 Contact Me</h2>
 <p>
-  📧 Email: <a href="mayurichake4@gmai.com">mayurichake4@gmail.com</a> <br>
+  📧 Email: <a>mayurichake4@gmail.com</a> <br>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/mayur-ichake">https://www.linkedin.com/in/mayur-ichake</a><br>
   💻 GitHub:   <a href="https://github.com/Mayur-Ichake">https://github.com/Mayur-Ichake</a>                                                                                                                    
 </p>
