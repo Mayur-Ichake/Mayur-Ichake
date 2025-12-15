@@ -1,4 +1,4 @@
-<!-- ⚡ Mayur Ichake • Stark Industries Theme -->
+<!-- ⚡ Mayur Ichake  -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00D9FF&center=true&vCenter=true&width=800&lines=I+Am+Mayur+Ichake+🤖">
@@ -51,7 +51,7 @@
 
 <h2>📫 Contact Me</h2>
 <p>
-  📧 Email: mayurichake4@gmail.com<br>
+  📧 Email: <a href="mayurichake4@gmai.com">mayurichake4@gmail.com</a> <br>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/mayur-ichake">https://www.linkedin.com/in/mayur-ichake</a><br>
   💻 GitHub:   <a href="https://github.com/Mayur-Ichake">https://github.com/Mayur-Ichake</a>                                                                                                                    
 </p>
