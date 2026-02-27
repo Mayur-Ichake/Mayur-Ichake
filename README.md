@@ -1,9 +1,11 @@
 <!-- ⚡ Mayur Ichake  -->
-
-<h1 align="center">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Mayur-Ichake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<h1 align="center">                   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00D9FF&center=true&vCenter=true&width=800&lines=I+Am+Mayur+Ichake+🤖">
 </h1>
-
+                                          
 <p align="center">
   <strong>Final Year ENTC Student | AI/ML Explorer | Edge AI + Robotics Innovator</strong><br/>
   Crafting intelligent machines inspired by <strong>Tony Stark’s Vision</strong>
