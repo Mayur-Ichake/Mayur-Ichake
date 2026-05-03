@@ -23,8 +23,8 @@ profile = {
     "tech"         : ["Python", "SQL", "Excel", "Selenium", "Power BI"],
     "tools"        : ["Jupyter", "VS Code", "Git", "Jira", "Linux CLI"],
     "methodology"  : "Agile / SDLC / STLC",
-    "location"     : "Pimpri-Chinchwad, Maharashtra, India",
-    "open_to_work" : True
+    "location"     : "Pune, Maharashtra, India",
+    
 }
 ```
 
