@@ -1,60 +1,56 @@
-<!-- ⚡ Mayur Ichake  -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Mayur-Ichake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<h1 align="center">                   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00D9FF&center=true&vCenter=true&width=800&lines=I+Am+Mayur+Ichake+🤖">
-</h1>
-                                          
+<h1 align="center">Hi, I'm Mayur Ichake 👋</h1>
+
 <p align="center">
-  <strong>Final Year ENTC Student | AI/ML Explorer | Edge AI + Robotics Innovator</strong><br/>
-  Crafting intelligent machines inspired by <strong>Tony Stark’s Vision</strong>
+  <strong>Aspiring Data Analyst | QA Automation Engineer</strong><br/>
+  Python | SQL | Excel | Software Testing | Automation
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayur-ichake">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayur--Ichake-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mayur%20Ichake-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mayurichake4@gmail.com">
+  <a href="mailto:mayurichake4@gmail.com">
     <img src="https://img.shields.io/badge/Email-mayurichake4@gmail.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://www.instagram.com/Mayur.ichake">
-    <img src="https://img.shields.io/badge/Instagram-Mayur--Ichake-red?style=flat&logo=instagram" />
-  </a>
-</p>
-
-
----
-
-<h2>💻 Skills & Technologies</h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,arduino,raspberrypi&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-007396?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
 ---
 
-
-<h2>🎯 Goals & Interests</h2>
-<ul>
-  <li>Become a proficient Python Developer & Data Analyst.</li>
-  <li>Build AI/ML models for real-time applications.</li>
-  <li>Integrate AI with IoT & Robotics projects.</li>
-  <li>Share knowledge & open-source projects on GitHub.</li>
-</ul>
+## 🚀 About Me
+- 🎓 Final Year ENTC Student  
+- 📊 Focused on Data Analysis & Software Testing  
+- 🧠 Skilled in Python, SQL, and Excel for data-driven solutions  
+- 🔍 Passionate about finding insights from data & improving software quality  
+- ⚡ Actively looking for entry-level roles in **Data Analyst / QA Automation**
 
 ---
 
-<h2>📫 Contact Me</h2>
-<p>
-  📧 Email: <a>mayurichake4@gmail.com</a> <br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/mayur-ichake">https://www.linkedin.com/in/mayur-ichake</a><br>
-  💻 GitHub:   <a href="https://github.com/Mayur-Ichake">https://github.com/Mayur-Ichake</a>                                                                                                                    
-</p>
+## 💻 Skills
 
+### 📊 Data Analysis
+- Python (Pandas, NumPy)
+- SQL (MySQL / Oracle SQL)
+- Microsoft Excel (Data Cleaning, Pivot Tables, Dashboards)
+
+### 🧪 QA & Automation
+- Manual Testing (Test Cases, Bug Reporting)
+- Basics of Automation Testing
+- Understanding of SDLC & STLC
+
+### 🛠 Tools
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+---
+
+## 🎯 Career Goal
+To start my career as a **Data Analyst or QA Automation Engineer**, where I can apply my analytical and problem-solving skills to real-world challenges.
+
+---
+
+## 📫 Contact Me
+- 📧 Email: mayurichake4@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mayur-ichake  
+- 💻 GitHub: https://github.com/Mayur-Ichake  
+
+---
